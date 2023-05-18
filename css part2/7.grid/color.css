@@ -1,0 +1,35 @@
+.box1,
+.box8 {
+    background-color: lightskyblue;
+}
+
+.box2,
+.box9,
+.box15 {
+    background-color: lightcoral;
+}
+
+.box3,
+.box10 {
+    background-color: lightgreen;
+}
+
+.box4,
+.box11 {
+    background-color: lightgoldenrodyellow;
+}
+
+.box5,
+.box12 {
+    background-color: lightsalmon;
+}
+
+.box6,
+.box13 {
+    background-color: lightseagreen;
+}
+
+.box7,
+.box14 {
+    background-color: lightcyan;
+}

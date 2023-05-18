@@ -1,0 +1,81 @@
+/* 기본 속성 */
+
+.text-styling:nth-child(1) {
+    font-weight: 100;
+}
+
+.text-styling:nth-child(2) {
+    text-transform: uppercase;
+}
+
+.text-styling:nth-child(3) {
+    font-style: italic;
+}
+
+.text-styling:nth-child(4) {
+    text-decoration: underline;
+}
+
+.text-styling:nth-child(5) {
+    font-weight: 900
+}
+
+.text-styling:nth-child(6) {
+    letter-spacing: -3px;
+}
+
+.text-styling:nth-child(7) {
+    letter-spacing: 7pt;
+}
+
+.text-styling:nth-child(8) {
+    font-stretch: extra-condensed;
+}
+
+.text-styling:nth-child(9) {
+    text-shadow: 3cm;
+}
+
+.text-styling:nth-child(10) {
+
+}
+
+.text-styling:nth-child(11) {}
+
+.text-styling:nth-child(12) {}
+
+.text-styling:nth-child(13) {}
+
+.text-styling:nth-child(14) {}
+
+.text-styling:nth-child(15) {}
+
+.text-styling:nth-child(16) {}
+
+
+/* 색상 */
+
+.text-styling:nth-child(17) {}
+
+.text-styling:nth-child(18) {}
+
+
+/* 링크 */
+
+a {}
+
+a:link {
+    
+}
+
+a:visited {}
+
+
+/* 순서가 없는 리스트 */
+
+ul li {}
+
+
+/* 순서가 있는 리스트 */
+
+ol li {}

@@ -1,0 +1,43 @@
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+.parent {
+    width: 600px;
+    height: 600px;
+    position: relative;
+    background-color: lightgray;
+}
+
+.child1 {
+    background-color: red;
+}
+
+.child2 {
+    background-color: yellow;
+    position: absolute;
+    right: 250px;
+    bottom: 250px;
+}
+
+.child3 {
+    background-color: blue;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.child4 {
+    background-color: lime;
+}
+
+.child5 {
+    background-color: purple;
+}
+
+.child6 {
+    background-color: pink;
+}

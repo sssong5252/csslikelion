@@ -1,0 +1,8 @@
+.box1 {
+    width: 100px;
+    height: 100px;
+    border: 2px dashed black;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}

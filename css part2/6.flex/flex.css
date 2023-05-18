@@ -1,0 +1,52 @@
+.container {
+    border: 20px solid indigo;
+    width: 500px;
+    height: 500px;
+
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: wrap;
+    gap: 70px;
+}
+
+
+.item1 {
+    background-color: violet;
+    border-radius: 50px;
+    padding: 50px;
+}
+}
+
+.item2 {
+    background-color: navajowhite;
+    border-radius: 30px;
+    padding: 50px;
+}
+
+.item3 {
+    background-color: palevioletred;
+    border-radius: 40px;
+    padding: 20px;
+}
+.item4 {
+    background-color:peru;
+    border-radius: 70px;
+    padding: 59px;
+}
+.item5 {
+    background-color: pink;
+    border-radius: 50px;
+    padding: 29px;
+}
+.item6 {
+    background-color: royalblue;
+    border-radius: 3px;
+    padding: 78px;
+}
+.item7 {
+    background-color: gold;
+    border-radius: 5px;
+    padding: 70px;
+}

@@ -1,0 +1,10 @@
+.box {
+    border: 5px solid red;
+    width: 500px;
+    height: 500px;
+    background-color: ;
+    background-image: url('./lion.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+} 

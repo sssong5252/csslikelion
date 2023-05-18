@@ -1,0 +1,21 @@
+.grid-container {
+    border: 3px dashed gray;
+    width: 300px;
+    height: 300px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    grid-template-areas: 
+    'b b r'
+    'b b r'
+    'g g r';
+}
+.box1 {
+    grid-area: b;
+}
+.box2 {
+    grid-area: r;
+}
+.box3 {
+    grid-area: g;
+}
